@@ -31,6 +31,25 @@ help.twitter.com
 platform.twitter.com
 syndication.twitter.com
 
+# Blocklist: Steam 
+
+steampowered.com
+store.steampowered.com
+help.steampowered.com
+api.steampowered.com
+steamcommunity.com
+steamgames.com
+steamstatic.com
+steamcontent.com
+steamusercontent.com
+akamai.steamstatic.com
+cdn.steamstatic.com
+steamchina.com
+steambroadcast.com
+steamloopback.host
+valvesoftware.com
+steam-chat.com
+
 # Blocklist: TikTok
 
 tiktok.com
