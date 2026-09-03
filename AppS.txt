@@ -1,0 +1,72 @@
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG, etc.)
+# Para usar como archivo de hosts, agregar "0.0.0.0 " antes de cada dominio.
+
+## Twitter / X (dominios y CDNs asociados)
+twitter.com
+x.com
+mobile.twitter.com
+t.co
+twimg.com
+pbs.twimg.com
+video.twimg.com
+abs.twimg.com
+twitpic.com
+nitter.net
+
+# Blocklist: TikTok
+
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+tiktokcdn.com
+tiktokcdn-us.com
+tiktokv.com
+tiktokv.us
+musical.ly
+musically.ly
+muscdn.com
+byteoversea.com
+ibyteimg.com
+ibytedtos.com
+ttlivecdn.com
+tiktokrow-cdn.com
+sgsnssdk.com
+tiktokglobalshop.com
+tiktok-shop.com
+
+# Blocklist: Instagram 
+
+## Instagram
+
+instagram.com
+www.instagram.com
+help.instagram.com
+about.instagram.com
+cdninstagram.com
+scontent.cdninstagram.com
+instagram.fbcdn.net
+i.instagram.com
+graph.instagram.com
+threads.net
+threads.com
+
+## Facebook
+
+facebook.com
+www.facebook.com
+m.facebook.com
+mobile.facebook.com
+fb.com
+fb.me
+fbcdn.net
+static.xx.fbcdn.net
+scontent.xx.fbcdn.net
+connect.facebook.net
+graph.facebook.com
+messenger.com
+edge-chat.messenger.com
+workplace.com
+
+## Meta 
+meta.com
+metastatus.com
