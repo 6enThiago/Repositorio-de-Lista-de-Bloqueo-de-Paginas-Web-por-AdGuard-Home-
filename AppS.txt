@@ -31,6 +31,22 @@ help.twitter.com
 platform.twitter.com
 syndication.twitter.com
 
+# Blocklist: Reddit
+
+reddit.com^
+redditstatic.com^
+redditmedia.com^
+redd.it^
+
+# Blocklist: Snapchat
+
+snapchat.com^
+sc-cdn.net^
+snap-dev.net^
+snapkit.co
+snapads.com^
+impala-media-production.s3.amazonaws.com^
+
 # Blocklist: Steam 
 
 steampowered.com
