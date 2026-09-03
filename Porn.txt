@@ -2,6 +2,7 @@
 # Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG, etc.)
 # Para usar como archivo de hosts, agregar "0.0.0.0 " antes de cada dominio.
 
+## Tube sites / mainstream
 xvideos.com
 xvideos2.com
 xvideos.es
@@ -18,7 +19,6 @@ redtube.com.br
 youporn.com
 tube8.com
 spankbang.com
-xxxvideo.com
 brazzers.com
 realitykings.com
 bangbros.com
@@ -38,17 +38,46 @@ drtuber.com
 sunporno.com
 nuvid.com
 xtube.com
+hqporner.com
+thumbzilla.com
+porn300.com
+xmoviesforyou.com
+xvideos-tube.com
+pornone.com
+porndoe.com
+vporn.com
+alphaporno.com
+gotporn.com
+empflix.com
+keezmovies.com
+extremetube.com
+xxxbunker.com
+porzo.com
+analdin.com
+fapdu.com
+pornhat.com
+fuq.com
+ok.xxx
+zbporn.com
+99tube.com
+
+## Cams / livestream
 chaturbate.com
 livejasmin.com
 stripchat.com
 myfreecams.com
+bongacams.com
+cam4.com
+camsoda.com
+flirt4free.com
+streamate.com
+
+## Subscription / creator platforms
 onlyfans.com
 fansly.com
-rule34.xxx
-rule34.paheal.net
-e621.net
-gelbooru.com
-danbooru.donmai.us
+manyvids.com
+
+## Hentai / anime adulto
 hentaihaven.xxx
 hanime.tv
 hentai2read.com
@@ -61,12 +90,37 @@ hentaicity.com
 9hentai.net
 tsumino.com
 doujins.com
-hqporner.com
-thumbzilla.com
-porn300.com
-xmoviesforyou.com
+hentaiheros.com
+hentaiworld.tv
+hentaistream.com
+oppai.stream
+hstream.moe
+hanimeworld.net
+
+## Rule34 / booru / dibujos explícitos
+rule34.xxx
+rule34.paheal.net
+r34hentai.net
+e621.net
+gelbooru.com
+danbooru.donmai.us
+konachan.com
+yande.re
+sankakucomplex.com
+booru.org
+xbooru.com
+
+## JAV / asiático
 javhd.com
 javfinder.com
 missav.com
 r18.com
 dlsite.com
+javlibrary.com
+javbus.com
+jav.guru
+supjav.com
+
+## Agregadores / buscadores porno
+pornmd.com
+porndude.com
