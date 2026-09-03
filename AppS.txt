@@ -1,17 +1,35 @@
 # Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG, etc.)
 # Para usar como archivo de hosts, agregar "0.0.0.0 " antes de cada dominio.
 
-## Twitter / X (dominios y CDNs asociados)
+# Blocklist: Twitter/X (dominios esenciales)
+# Subconjunto reducido: cubre acceso web, móvil, API y CDN de medios (lo necesario para restringir el uso normal)
+
+## Dominios principales
 twitter.com
+www.twitter.com
 x.com
+m.twitter.com
 mobile.twitter.com
-t.co
-twimg.com
-pbs.twimg.com
-video.twimg.com
-abs.twimg.com
-twitpic.com
-nitter.net
+lite.twitter.com
+
+## App / API (usados por la app oficial y clientes de terceros)
+api.twitter.com
+api.x.com
+mobile.twitter.com
+upload.twitter.com
+
+## Multimedia / CDN (imágenes y videos embebidos)
+pbs.twitter.com
+video.twitter.com
+pic.twitter.com
+
+## Autenticación / sesión
+support.twitter.com
+help.twitter.com
+
+## Widgets embebidos en otras webs (opcional: bloquea previsualización de tweets en otras páginas)
+platform.twitter.com
+syndication.twitter.com
 
 # Blocklist: TikTok
 
