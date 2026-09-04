@@ -1,0 +1,56 @@
+# Blocklist: Reddit
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG)
+# Bloquea acceso completo a Reddit: web, app, API, CDN
+
+## Dominios principales
+reddit.com
+www.reddit.com
+old.reddit.com
+m.reddit.com
+i.reddit.com
+np.reddit.com
+pay.reddit.com
+
+## API / App
+api.reddit.com
+oauth.reddit.com
+api-mod.reddit.com
+events.reddit.com
+
+## CDN / Multimedia
+redd.it
+i.redd.it
+v.redd.it
+preview.redd.it
+i.redditmedia.com
+external-preview.redd.it
+redditstatic.com
+www.redditstatic.com
+reddit.map.fastly.net
+
+## Reddit Media
+redditmedia.com
+www.redditmedia.com
+s.reddit.com
+e.reddit.com
+
+## Reddit CDN
+styles.redditmedia.com
+www.redditstatic.com
+vw.reddit.com
+
+## Reddit Gold / Premium
+gold.reddit.com
+gild.reddit.com
+
+## Reddit Apps
+i.redditmedia.com
+i.reddit.com
+preview.redd.it
+oauth.reddit.com
+
+## Infraestructura
+reddit.com.com
+redditupload.s3.amazonaws.com
+reddit.map.fastly.net
+thumbs.redditmedia.com

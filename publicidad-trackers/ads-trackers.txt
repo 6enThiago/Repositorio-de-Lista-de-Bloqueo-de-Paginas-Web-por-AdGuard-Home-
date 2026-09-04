@@ -1,5 +1,8 @@
-# Blocklist: Ads / Trackers
+# Blocklist: Publicidad y Trackers
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG)
+# Bloquea servidores de publicidad, tracking y análisis
 
+## Google Ads / Analytics
 doubleclick.net
 googlesyndication.com
 googleadservices.com
@@ -7,6 +10,14 @@ google-analytics.com
 googletagmanager.com
 googletagservices.com
 adservice.google.com
+pagead2.googlesyndication.com
+ad.doubleclick.net
+stats.g.doubleclick.net
+www-googletagmanager.l.google.com
+analytics.google.com
+region1.google-analytics.com
+
+## Publicidad programática
 adnxs.com
 advertising.com
 adsrvr.org
@@ -21,6 +32,8 @@ adroll.com
 media.net
 adform.net
 smartadserver.com
+
+## Tracking / Analytics
 scorecardresearch.com
 quantserve.com
 bluekai.com
@@ -28,9 +41,6 @@ mathtag.com
 casalemedia.com
 contextweb.com
 turn.com
-amazon-adsystem.com
-ads-twitter.com
-analytics.twitter.com
 bidswitch.net
 adsafeprotected.com
 moatads.com
@@ -41,6 +51,8 @@ sharethrough.com
 gumgum.com
 sovrn.com
 appnexus.com
+
+## Publicidad mobile
 exponential.com
 adcolony.com
 applovin.com
@@ -48,14 +60,27 @@ chartboost.com
 vungle.com
 inmobi.com
 mopub.com
+
+## Tracking / Telemetry
 flurry.com
 crashlytics.com
 branch.io
 adjust.com
 appsflyer.com
 tapad.com
-thetradedesk.com
+thetradesk.com
 rlcdn.com
 demdex.net
 krxd.net
 crwdcntrl.net
+
+## Publicidad Twitter / Social
+ads-twitter.com
+analytics.twitter.com
+
+## Publicidad Facebook
+an.facebook.com
+
+## Publicidad TikTok
+analytics.tiktok.com
+ads.tiktok.com

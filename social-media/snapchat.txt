@@ -1,0 +1,101 @@
+# Blocklist: Snapchat / Snap Inc
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG)
+# Bloquea acceso completo a Snapchat: web, app, API, CDN, Bitmoji, Spectacles
+
+## Dominios principales
+snapchat.com
+www.snapchat.com
+m.snapchat.com
+accounts.snapchat.com
+web.snapchat.com
+w.snapchat.com
+
+## API / App
+api.snapchat.com
+ads.snapchat.com
+app.snapchat.com
+link.snapchat.com
+events.snapchat.com
+analytics.snapchat.com
+app-analytics.snapchat.com
+app-analytics-v2.snapchat.com
+
+## CDN / Multimedia
+sc-cdn.net
+sc-static.net
+sc-static-us.s3.amazonaws.com
+static.snapchat.com
+assets.snapchat.com
+ds.snapchat.com
+cdn.snapchat.com
+share.snapchat.com
+
+## Snap Map
+map.snapchat.com
+maps.snapchat.com
+snapmap.com
+snapmap.org
+snapmaps.com
+
+## Auth / Login
+auth.snapchat.com
+login.snapchat.com
+accounts.snapchat.com
+
+## Soporte / Developer
+support.snapchat.com
+developer.snapchat.com
+developers.snapchat.com
+docs.snapchat.com
+help.snapchat.com
+
+## Snap Kit / Bitmoji
+snapkit.com
+www.snapkit.com
+sdk.snapkit.com
+bitmoji.com
+www.bitmoji.com
+sdk.bitmoji.com
+
+## Snap Ads
+snapads.com
+us-central1-gcp.api.snapchat.com
+asia-southeast1-gcp.api.snapchat.com
+usc.adserver.snapads.com
+ase.adserver.snapads.com
+
+## Spectacles
+spectacles.com
+www.spectacles.com
+
+## Snap Games / Creativos
+games.snapchat.com
+create.snapchat.com
+art.snapchat.com
+
+## Snap Store
+store.snapchat.com
+
+## Snap Mail / Surveys
+email.snapchat.com
+survey.snapchat.com
+
+## Otros servicios Snap
+sc-jpl.com
+sc-prod.net
+sc-corp.net
+sc-gw.com
+feelinsonice.com
+snap-dev.net
+snap-storage-cdn.l.google.com
+
+## Otros productos Snap Inc
+zenly.com
+www.zenly.com
+bitstrips.com
+cimagine.net
+seene.com
+
+## Business
+business.snapchat.com
+partners.snapchat.com

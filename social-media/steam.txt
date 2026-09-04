@@ -1,0 +1,68 @@
+# Blocklist: Steam / Valve
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG)
+# Bloquea acceso completo a Steam: tienda, comunidad, juegos, CDN, chat
+
+## Dominios principales
+steampowered.com
+www.steampowered.com
+store.steampowered.com
+help.steampowered.com
+api.steampowered.com
+
+## Steam Community
+steamcommunity.com
+www.steamcommunity.com
+community.akamai.steampowered.com
+
+## Steam Games / Content
+steamgames.com
+steamcontent.com
+cdn.steamstatic.com
+akamai.steampowered.com
+steamstatic.com
+
+## Steam User
+steamusercontent.com
+steamuserimages-a.akamaihd.net
+
+## Steam Broadcast
+steambroadcast.com
+
+## Steam Chat
+steam-chat.com
+
+## Steam China
+steamchina.com
+
+## Steam Loopback
+steamloopback.host
+
+## Valve
+valvesoftware.com
+www.valvesoftware.com
+
+## Steam CDN / Multimedia
+cdn.akamai.steamstatic.com
+store.steampowered.com
+shared.akamai.steamstatic.com
+avatars.akamai.steamstatic.com
+clan.akamai.steamstatic.com
+
+## Steam API
+api.steampowered.com
+partner.steamgames.com
+
+## Steam Workshop
+steamcommunity.com
+workshop.steamowered.com
+
+## Steam Market
+steamcommunity.com
+
+## Steam Login
+login.steampowered.com
+login.steamcommunity.com
+
+## Steam Mobile
+steamcdn-a.akamaihd.net
+store.steampowered.com

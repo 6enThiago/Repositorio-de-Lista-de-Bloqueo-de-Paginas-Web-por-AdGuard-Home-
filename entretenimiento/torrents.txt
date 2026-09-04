@@ -1,0 +1,102 @@
+# Blocklist: Torrents / P2P / Descargas
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG)
+# Bloquea acceso a sitios de torrents, P2P y descargas
+
+## The Pirate Bay
+thepiratebay.org
+thepiratebay10.org
+thepiratebay0.org
+piratebay.party
+piratebayproxy.com
+thepiratebay.zone
+
+## 1337x
+1337x.to
+1337x.st
+1337x.eu
+1337x.ws
+1337x.unblockit.tv
+
+## RARBG (cerrado pero dominios activos)
+rarbg.to
+rarbg.is
+rarbg.com
+
+## YTS / YIFY
+yts.mx
+yts.rs
+yts.am
+yts.torrentbay.st
+
+## TorrentGalaxy
+torrentgalaxy.to
+torrentgalaxy.mx
+
+## LimeTorrents
+limetorrents.info
+limetorrents.pro
+limetorrents.cc
+
+## KickassTorrents
+kickasstorrents.to
+kickasstorrents.cr
+katcr.co
+kickass.cat
+
+## Zooqle
+zooqle.com
+
+## Torrentz
+torrentz2.eu
+torrentz2.is
+torrentzsearch.com
+
+## EZTV
+eztv.re
+eztv.ag
+eztv.ch
+
+## Torlock
+torlock.com
+torlock2.com
+
+## Otros trackers
+glotorrents.info
+glotorrents.cc
+magnetdl.com
+extratorrent.st
+seedpeer.net
+idope.se
+torrentfunk.com
+torrenthal.com
+
+## Torrent9 (francés)
+torrent9.to
+torrent9.is
+torrent9.cat
+
+## Nyaa / Anime torrents
+nyaa.si
+sukebei.nyaa.si
+anidex.info
+
+## Otros
+demonoid.is
+isohunt.to
+btdb.eu
+solidtorrents.net
+torrentdownload.info
+worldwidetorrents.com
+torrent-paradise.ml
+btbit.pw
+bt4gprx.com
+bt4g.org
+
+## LibGen / Sci-Hub (descargas de papers/libros)
+libgen.rs
+libgen.is
+libgen.st
+libgen.li
+sci-hub.se
+sci-hub.st
+sci-hub.ru

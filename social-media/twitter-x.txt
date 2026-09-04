@@ -1,0 +1,103 @@
+# Blocklist: X (Twitter)
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG)
+# Bloquea acceso completo a X/Twitter: web, app, API, CDN, Grok, Periscope
+
+## Dominios principales
+twitter.com
+www.twitter.com
+x.com
+www.x.com
+m.twitter.com
+mobile.twitter.com
+lite.twitter.com
+lite-dev.twitter.com
+twitterlite.com
+
+## API / App
+api.twitter.com
+api.x.com
+api-34-0-0.twitter.com
+api-0-4-4.twitter.com
+api-45-0-0.twitter.com
+upload.twitter.com
+upload-0-4-7.twitter.com
+ton.twitter.com
+td.twitter.com
+tpop-api.twitter.com
+
+## CDN / Multimedia
+pbs.twimg.com
+video.twimg.com
+pic.twitter.com
+pbs.twimg.com
+ton.twimg.com
+abs.twimg.com
+syndication.twitter.com
+platform.twitter.com
+publish.twitter.com
+
+## Autenticación / Soporte
+support.twitter.com
+help.twitter.com
+about.twitter.com
+safety.twitter.com
+privacy.twitter.com
+blog.twitter.com
+engineering.twitter.com
+developer.twitter.com
+developers.twitter.com
+
+## Analytics / Ads
+analytics.twitter.com
+analyticsbeta.twitter.com
+ads.twitter.com
+advertising.twitter.com
+data.twitter.com
+t.co
+
+## Grok (IA de X)
+grok.com
+www.grok.com
+grok.x.com
+
+## Periscope (heredado)
+periscope.tv
+www.periscope.tv
+pscp.tv
+live.pscp.tv
+
+## Vine (heredado)
+vine.co
+v.cdn.vine.co
+
+## X Premium / Verified
+verified.twitter.com
+api verified.twitter.com
+
+## Embed / Widgets
+syndication.twitter.com
+platform.twitter.com
+cards.twitter.com
+
+## Infraestructura
+s.twitter.com
+probe.twitter.com
+mx.twitter.com
+mta.e.twitter.com
+mta2.e.twitter.com
+mta18.e.twitter.com
+mta21.e.twitter.com
+mta72.e.twitter.com
+cortex-dev.twitter.com
+cf.twitter.com
+measure1.twitter.com
+badgleymischka.twitter.com
+birdseye.twitter.com
+opensource.twitter.com
+search2.twitter.com
+www4.twitter.com
+dashboard.twitter.com
+mobilefeedback.twitter.com
+discover.twitter.com
+records.twitter.com
+about.twitter.com

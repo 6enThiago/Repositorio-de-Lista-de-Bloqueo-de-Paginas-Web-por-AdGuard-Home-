@@ -1,0 +1,64 @@
+# Blocklist: TikTok / ByteDance
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG)
+# Bloquea acceso completo a TikTok: web, app, API, CDN y servicios asociados
+
+## Dominios principales
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+tiktok.net
+v.tiktok.net
+tiktokw.us
+tiktokv.us
+tiktokshop.com
+tiktokglobalshop.com
+
+## App / API
+api.tiktok.com
+api2.tiktok.com
+api-h2.tiktokv.com
+api21-h2.tiktokv.com
+ib.tiktokv.com
+log.tiktokv.com
+log2.tiktokv.com
+mon.musical.ly
+api2.musical.ly
+api2-16-h2.musical.ly
+api2-21-h2.musical.ly
+
+## CDN / Multimedia
+tiktokcdn.com
+tiktokcdn-us.com
+v16a.tiktokcdn.com
+v16m.tiktokcdn.com
+v19.tiktokcdn.com
+p16-tiktokcdn-com.akamaized.net
+tiktokcdn.com.c.worldfcdn.com
+tiktokcdn.com.wsdvs.com
+tiktokcdn.liveplay.myqcloud.com
+
+## Dominios heredados (Musical.ly)
+musical.ly
+musically.ly
+muscdn.com
+
+## Infraestructura ByteDance
+byteoversea.com
+ibyteimg.com
+ibytedtos.com
+bytecdn.cn
+byted.org
+sgsnssdk.com
+tiktokrow-cdn.com
+ttlivecdn.com
+ttdns2.com
+
+## Tienda / Shop
+tiktok-shop.com
+shop.tiktok.com
+ads.tiktok.com
+affiliate.tiktok.com
+partners.tiktok.com
+analytics.tiktok.com
+developer.tiktok.com
+developers.tiktok.com

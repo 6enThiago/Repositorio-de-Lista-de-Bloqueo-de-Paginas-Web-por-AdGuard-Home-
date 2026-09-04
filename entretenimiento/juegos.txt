@@ -1,0 +1,106 @@
+# Blocklist: Juegos en línea / Browser Games / Roblox
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG)
+# Bloquea acceso a juegos web, Roblox, y navegadores remotos
+
+## Juegos web comunes
+poki.com
+www.poki.com
+crazygames.com
+www.crazygames.com
+miniclip.com
+www.miniclip.com
+kongregate.com
+www.kongregate.com
+newgrounds.com
+www.newgrounds.com
+armor-games.com
+www.armor-games.com
+addictinggames.com
+www.addictinggames.com
+y8.com
+www.y8.com
+1001juegos.com
+www.1001juegos.com
+juegos.com
+www.juegos.com
+turbogames.com
+www.turbogames.com
+gamesforum.net
+
+## Juegos en la nube / Browser remoto
+a8silo.com
+aerokube.com
+authentic8.com
+browser.networkchuck.com
+browsercloud.io
+browserling.com
+browserstack.com
+comparium.app
+fra.me
+ghostinspector.com
+gmx.com
+ieonchrome.com
+kasmweb.com
+lambdatest.com
+ldcloud.net
+mabl.com
+mightyapp.com
+neverinstall.com
+pcloudy.com
+perfecto.io
+puffin.com
+remotehq.com
+renderro.com
+saucelabs.com
+shells.com
+smartbear.com
+testgrid.io
+testingbot.com
+testsigma.com
+
+## Roblox
+roblox.com
+www.roblox.com
+golden.roblox.com
+us-central-bd2.roblox.com
+realtime.roblox.com
+gold.roblox.com
+inventory.roblox.com
+economy.roblox.com
+games.roblox.com
+assetgame.roblox.com
+presence.roblox.com
+clientsettingscdn.roblox.com
+ephemeralcounters.api.roblox.com
+thumbnails.roblox.com
+assetdelivery.roblox.com
+client-telemetry.roblox.com
+ecsv2.roblox.com
+groups.roblox.com
+gameinternationalization.roblox.com
+gamejoin.roblox.com
+badges.roblox.com
+followings.roblox.com
+voice.roblox.com
+contacts.roblox.com
+auth.roblox.com
+api.roblox.com
+trades.roblox.com
+catalog.roblox.com
+avatar.roblox.com
+users.roblox.com
+friends.roblox.com
+www.roblox.com
+
+## Bloqueo por patrones de texto comunes en juegos
+# Estos dominios contienen palabras típicas de sitios de juegos
+# y se bloquean por patrón, no por dominio exacto
+2048.com
+2048game.com
+snake-game.com
+spider-solitaire.com
+solitaire.com
+freecell.com
+minesweeperonline.com
+crossword-solver.com
+wordle-game.com

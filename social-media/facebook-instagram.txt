@@ -1,0 +1,136 @@
+# Blocklist: Facebook / Instagram / Meta / WhatsApp / Messenger
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG)
+# Bloquea acceso completo a las plataformas Meta: web, app, API, CDN y servicios
+
+## Facebook - Dominios principales
+facebook.com
+www.facebook.com
+m.facebook.com
+mobile.facebook.com
+mbasic.facebook.com
+d.facebook.com
+touch.facebook.com
+web.facebook.com
+beta.facebook.com
+fb.com
+fb.me
+m.me
+facebook.org
+facebook.net
+
+## Facebook - API / Graph
+graph.facebook.com
+api.facebook.com
+connect.facebook.com
+b-graph.facebook.com
+b-api.facebook.com
+graph2.facebook.com
+
+## Facebook - CDN / Multimedia
+fbcdn.net
+static.xx.fbcdn.net
+scontent.xx.fbcdn.net
+external.xx.fbcdn.net
+scontent-lax3-1.xx.fbcdn.net
+scontent-lax3-2.xx.fbcdn.net
+scontent-msp1-1.xx.fbcdn.net
+scontent-msp1-2.xx.fbcdn.net
+scontent-fmla1-1.xx.fbcdn.net
+scontent-iad3-1.xx.fbcdn.net
+scontent-iad3-2.xx.fbcdn.net
+scontent-ord5-1.xx.fbcdn.net
+scontent-a.xx.fbcdn.net
+z-m-scontent.xx.fbcdn.net
+z-m-graph.facebook.com
+
+## Facebook - Messenger
+messenger.com
+www.messenger.com
+edge-chat.messenger.com
+b-api.messenger.com
+scontent.xx.fbcdn.net
+
+## Facebook - Workplace
+workplace.com
+www.workplace.com
+workplace.com
+
+## Facebook - Otros servicios
+facebook-domain-names.com
+facebooklive.com
+facebookproxy.com
+atlassolutions.com
+atlasinstreamvideo.com
+
+## Instagram - Dominios principales
+instagram.com
+www.instagram.com
+i.instagram.com
+m.instagram.com
+help.instagram.com
+about.instagram.com
+
+## Instagram - API
+graph.instagram.com
+api.instagram.com
+drive.instagram.com
+
+## Instagram - CDN / Multimedia
+cdninstagram.com
+scontent.cdninstagram.com
+instagram.fbcdn.net
+scontent-iad3-1.cdninstagram.com
+scontent-iad3-2.cdninstagram.com
+scontent-lax3-1.cdninstagram.com
+scontent-msp1-1.cdninstagram.com
+scontent-ord5-1.cdninstagram.com
+
+## Instagram - Embed / Widgets
+platform.instagram.com
+statigram.com
+
+## Threads
+threads.net
+www.threads.net
+threads.com
+www.threads.com
+
+## Meta - Dominios corporativos
+meta.com
+www.meta.com
+metastatus.com
+about.meta.com
+
+## Meta - Oculus / VR
+oculus.com
+www.oculus.com
+oculusvr.com
+quest.com
+
+## WhatsApp (opcional - descomentar si se desea bloquear)
+# whatsapp.com
+# www.whatsapp.com
+# web.whatsapp.com
+# chat.whatsapp.com
+# media.whatsapp.com
+# dyn.whatsapp.com
+# dit.whatsapp.com
+# g.whatsapp.net
+# scontent-wha1-1.cdn.whatsapp.net
+# scontent-wha2-1.cdn.whatsapp.net
+
+## Facebook - Dominios locales (descomentar los que apliquen)
+# facebook.com.ar
+# facebook.com.br
+# facebook.com.co
+# facebook.com.do
+# facebook.com.gt
+# facebook.com.mx
+# facebook.com.py
+# facebook.com.sv
+# facebook.de
+# facebook.es
+# facebook.fr
+# facebook.it
+# facebook.jp
+# facebook.nl

@@ -1,0 +1,70 @@
+# Blocklist: Crypto Mining / Trading / Faucets
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG)
+# Bloquea minería oculta, exchanges, trading y faucets
+
+## Cryptomining en navegador (scripts que minan usando el CPU del visitante)
+coinhive.com
+coin-hive.com
+authedmine.com
+crypto-loot.com
+coinimp.com
+webminepool.com
+minero.cc
+jsecoin.com
+cryptonoter.com
+webmine.pro
+2giga.link
+gridcash.net
+minr.nl
+cryptojackingtest.com
+browsermine.com
+minecrunch.co
+mining UNITED
+coinlab.biz
+ad-miner.com
+monerominer.rocks
+2giga.link
+
+## Sitios de "cloud mining" / esquemas dudosos
+hashocean.com
+bitcoinmining.com
+eobot.com
+minergate.com
+hashflare.io
+genesis-mining.com
+nicehash.com
+
+## Exchanges / Trading (descomentar si se desea bloquear)
+binance.com
+www.binance.com
+api.binance.com
+coinbase.com
+www.coinbase.com
+kraken.com
+www.kraken.com
+metamask.io
+www.metamask.io
+blockchain.com
+www.blockchain.com
+kucoin.com
+www.kucoin.com
+huobi.com
+www.huobi.com
+okx.com
+www.okx.com
+bitstamp.net
+www.bitstamp.net
+bitfinex.com
+www.bitfinex.com
+gemini.com
+www.gemini.com
+crypto.com
+www.crypto.com
+
+## Faucets / Airdrops (suelen traer adware o minería oculta)
+freebitco.in
+cointiply.com
+freedogecoin.com
+moonbitcoin.cash
+bonusbitcoin.co
+faucetbox.com

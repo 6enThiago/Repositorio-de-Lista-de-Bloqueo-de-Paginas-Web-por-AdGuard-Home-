@@ -1,6 +1,6 @@
-# Adult Content Blocklist
-# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG, etc.)
-# Para usar como archivo de hosts, agregar "0.0.0.0 " antes de cada dominio.
+# Blocklist: Contenido Adulto / NSFW
+# Formato: un dominio por línea (compatible con Pi-hole, AdGuard Home, pfBlockerNG)
+# Bloquea acceso a sitios de contenido sexual explícito
 
 ## Tube sites / mainstream
 xvideos.com
@@ -12,6 +12,7 @@ xxx.com
 xhamster.com
 xhamster2.com
 xhamster3.com
+xhamster4.com
 xnxx.com
 xnxx2.com
 redtube.com
@@ -60,6 +61,13 @@ fuq.com
 ok.xxx
 zbporn.com
 99tube.com
+pornhd.com
+pornoxo.com
+daftsex.com
+yespornplease.com
+mrdeepfakes.com
+fapello.com
+thothub.tv
 
 ## Cams / livestream
 chaturbate.com
@@ -71,11 +79,17 @@ cam4.com
 camsoda.com
 flirt4free.com
 streamate.com
+imlive.com
+liveleaks.com
+cams.com
 
 ## Subscription / creator platforms
 onlyfans.com
+www.onlyfans.com
 fansly.com
 manyvids.com
+losexvideos.com
+fansworld.com
 
 ## Hentai / anime adulto
 hentaihaven.xxx
@@ -96,6 +110,12 @@ hentaistream.com
 oppai.stream
 hstream.moe
 hanimeworld.net
+nhentai.com
+hitomi.la
+e-hentai.org
+exhentai.org
+ HentaiEclipse.com
+meraklan.info
 
 ## Rule34 / booru / dibujos explícitos
 rule34.xxx
@@ -109,6 +129,8 @@ yande.re
 sankakucomplex.com
 booru.org
 xbooru.com
+tbib.org
+safebooru.org
 
 ## JAV / asiático
 javhd.com
@@ -120,7 +142,15 @@ javlibrary.com
 javbus.com
 jav.guru
 supjav.com
+javfull.net
+javgg.net
+onejav.com
+javmost.com
+jable.tv
+javdb.com
 
 ## Agregadores / buscadores porno
 pornmd.com
 porndude.com
+iqiyi.com
+pornpen.ai
